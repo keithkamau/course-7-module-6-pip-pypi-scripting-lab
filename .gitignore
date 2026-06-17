@@ -16,17 +16,13 @@ build/
 log_*.txt
 *.log
 
-# IDE
-.vscode/
-.idea/
-*.swp
-*.swo
-
 # Testing
 .pytest_cache/
 .coverage
 htmlcov/
 
-# OS
-.DS_Store
-Thumbs.db
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
